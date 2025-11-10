@@ -6,8 +6,11 @@ body {
 }
 
 h1 {
-  color:green;
+  color:forestgreen;
 }
+
+q1 {
+  color:blue;
 
 nav ul {
   list-style: none;
